@@ -31,6 +31,9 @@
     width: 2rem;
 }
 
+.certificate-img{
+    width: 100%;
+}
 
 @media (max-width: 522px) {
     .header-button{
