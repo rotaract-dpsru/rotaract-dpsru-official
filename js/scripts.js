@@ -9,9 +9,9 @@
 
 
 
-// while(true){
-//     console.log("heheheh");
-// }
+while(true){
+    console.log("heheheh");
+}
 
 window.addEventListener('DOMContentLoaded', event => {
 
