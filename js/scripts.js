@@ -9,10 +9,6 @@
 
 
 
-while(true){
-    console.log("heheheh");
-}
-
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
