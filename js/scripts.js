@@ -8,9 +8,6 @@
 // 
 
 
-while (true){
-    console.log("scamming me ay?");
-}
 
 window.addEventListener('DOMContentLoaded', event => {
 
